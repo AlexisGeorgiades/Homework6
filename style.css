@@ -10,19 +10,20 @@
     flex:auto
 }
 
-span.severe{
+span.high{
     padding: 3px;
     background-color: red;
     color:white;
 }
 
-span.moderate{
+span.medium{
     padding: 3px;
     background-color: yellow;
 }
 
-span.favorable{
+span.low{
     padding: 3px;
     background-color: green;
     color:white;
 }
+
